@@ -23,6 +23,4 @@ pip install pygame
 
 Open Terminal and run the following:
 
-```sh
 pip3 install pygame
-```
