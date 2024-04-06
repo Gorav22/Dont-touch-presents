@@ -11,7 +11,7 @@ pygame.init()
 
 FramePerSec = pygame.time.Clock()
 
-
+print("developed by Gorav Jindal")
 def update_game_display():
     pygame.display.update()
     FramePerSec.tick(Config.FPS)
