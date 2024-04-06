@@ -24,3 +24,5 @@ pip install pygame
 Open Terminal and run the following:
 
 pip3 install pygame
+
+### Developed by Gorav Jindal
