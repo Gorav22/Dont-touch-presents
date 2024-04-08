@@ -2,7 +2,7 @@
 
 Big problem! The holidays are almost here but people keep trying to steal your presents. It's up to you to see how long you can defend your precious gift.
 
-This [game was made in 1 month to complete] with Python and Pygame.
+This game is made with Python and Pygame.
 
 
 ## How to Play
